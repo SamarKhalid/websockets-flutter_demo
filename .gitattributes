@@ -5,3 +5,8 @@
 *.cpp linguist-vendored
 *.h linguist-vendored
 *.cmake linguist-vendored
+*.java linguist-vendored
+*.xml linguist-vendored
+*.gradle linguist-vendored
+*.h linguist-vendored
+*.cpp linguist-vendored
