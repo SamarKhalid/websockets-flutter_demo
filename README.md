@@ -11,6 +11,8 @@ This is a **simple demo screen** showcasing how to use **WebSockets in Flutter**
 - It is a **public WebSocket echo server**
 - **Whatever message you send**, it **sends back the same message**
 - Example:
+
+
 ![img.png](img.png)
 
 
