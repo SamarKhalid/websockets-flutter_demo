@@ -1,12 +1,9 @@
 *.dart linguist-detectable=true
+*.dart linguist-language=Dart
 *.yaml linguist-detectable=true
-
-*.c linguist-vendored
-*.cpp linguist-vendored
-*.h linguist-vendored
-*.cmake linguist-vendored
-*.java linguist-vendored
-*.xml linguist-vendored
-*.gradle linguist-vendored
-*.h linguist-vendored
-*.cpp linguist-vendored
+android/** linguist-vendored
+ios/** linguist-vendored
+web/** linguist-vendored
+windows/** linguist-vendored
+macos/** linguist-vendored
+linux/** linguist-vendored
